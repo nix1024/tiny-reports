@@ -1,3 +1,7 @@
+layout: page
+title: "Privacy Policy"
+permalink: /privacy
+
 **Privacy Policy**
 
 Xin Wang built the Tiny Reports app as a Freemium app. This SERVICE is provided by Xin Wang at no cost and is intended for use as is.
