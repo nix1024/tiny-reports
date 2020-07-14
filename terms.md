@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Terms & Conditions"
 permalink: /terms
+---
 
 **Terms & Conditions**
 
